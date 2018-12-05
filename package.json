@@ -6,7 +6,7 @@
   "scripts": {
     "start": "ts-node app.ts"
   },
-  "author": "Rainer Stropek",
+  "author": "",
   "license": "MIT",
   "dependencies": {
     "express": "^4.16.4",
@@ -18,7 +18,16 @@
     "@types/express": "^4.16.0",
     "@types/http-status-codes": "^1.2.0",
     "@types/lokijs": "^1.5.2",
+    "@types/node": "^10.12.11",
     "ts-node": "^7.0.1",
-    "typescript": "^3.1.6"
-  }
+    "typescript": "^3.2.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/htl-perg-2018-19-4ahif/rsvp-exercise-K1H1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/htl-perg-2018-19-4ahif/rsvp-exercise-K1H1/issues"
+  },
+  "homepage": "https://github.com/htl-perg-2018-19-4ahif/rsvp-exercise-K1H1#readme"
 }
